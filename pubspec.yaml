@@ -1,0 +1,16 @@
+name: logger_android_like
+version: 1.0.0
+
+description: A simple logger similar to Android devices one
+author: Mobizel <flutter@mobizel.com>
+homepage: https://github.com/mobizel/logger-android-like
+
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  ansicolor: ^1.0.2
+  logging: ^0.11.4
+
