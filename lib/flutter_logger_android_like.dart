@@ -5,4 +5,6 @@
 /// A library to add logs such as Android native logger
 library logger_android_like;
 
+export 'package:logging/logging.dart';
+
 export 'src/log.dart';
